@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yourownvibhore
 - 👀 I’m interested in literally everything that excites me
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vjmj4005@gmail.com
 
 <!---
