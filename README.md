@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **django,flask**
 
-- 📝 I regularly write articles on [https://t.co/588oIUzMDW](https://t.co/588oIUzMDW)
+- 📝 I regularly write articles on [Quora](https://t.co/588oIUzMDW)
 
 - 💬 Ask me about **c, python, UI/UX, figma, CP**
 
