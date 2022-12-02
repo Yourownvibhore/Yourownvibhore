@@ -17,7 +17,9 @@
 
 - 📫 How to reach me **vjmj4005@gmail.com**
 
-- ⚡ Fun fact **it is hard for me to talk to people**
+- ⚡ Fun fact **i am socially awkward**
+
+<img src="https://user-images.githubusercontent.com/78909117/193577978-12043c12-5409-4d4d-a145-b03d9e59be3c.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
