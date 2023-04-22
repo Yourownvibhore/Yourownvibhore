@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a cleanliness app**
 
-- 🌱 I’m currently learning **django,flask**
+- 🌱 I’m currently learning **ml**
 
 - 📝 I regularly write articles on [Quora](https://t.co/588oIUzMDW)
 
