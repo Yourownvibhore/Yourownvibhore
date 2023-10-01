@@ -1,5 +1,5 @@
 <h1 align="center">Heya.. <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="40" >, I'm Vibhore Jain</h1>
-<h3 align="center">A non passionate developer from Bharat 🇮🇳</h3>
+<h3 align="center">A non passionate developer from Bharat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourownvibhore&label=Profile%20views&color=0e75b6&style=flat" alt="yourownvibhore" /> </p>
 <!-- 
